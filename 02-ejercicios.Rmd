@@ -1,0 +1,9 @@
+# Instrucciones
+
+Resuelve los ejercicios de la clase [(ver handout)](https://github.com/agarbuno/modelacion-bayesiana/blob/spring-2022/docs/02-mcmc.pdf) y auxiliate del [código de soporte](https://github.com/agarbuno/modelacion-bayesiana/blob/spring-2022/rscripts/02-mcmc.R).
+
+## Ejercicio 0
+
+## Ejercicio 1
+
+## Ejercicio 2
